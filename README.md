@@ -14,7 +14,7 @@ I extended standart XMLReader to work with StreamReader to read my custom object
 
 There are countless amount of functions in the "program.cs" file. One does it with multi-threading, one does it with only bulk insert, one does it even without bulk-insert and so on. The function names usually is enough to read it. But insides can a little bit tricky to understand.
 
-#Results? I guess.
+# Results? I guess.
 
 ## Note
 The different tests made in different days so the results may affected by connection and my computers speed (Which is bad, very bad). So I suggest you that only look for differences between databases. 
