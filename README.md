@@ -16,12 +16,13 @@ There are countless amount of functions in the "program.cs" file. One does it wi
 
 #Results? I guess.
 
-```
-Note: The different tests made in different days so the results may affected by connection and my computers speed (Which is bad, very bad). So I suggest you that only look for differences between databases. 
-Note2: Same tests with different databases made back-to-back.
-```
+## Note
+The different tests made in different days so the results may affected by connection and my computers speed (Which is bad, very bad). So I suggest you that only look for differences between databases. 
+## Note2
+Same tests with different databases made back-to-back.
 
-## simple insert operation
+
+## Simple insert operation
 ![speedtests](https://user-images.githubusercontent.com/77689346/184593180-2bad980c-7e8c-4dfa-aee1-3f2a9cbcee1b.png)
 
 ![WriteTests](https://user-images.githubusercontent.com/77689346/184593220-a2b49b1e-8a31-433d-bd83-1c0e51ff9729.png)
